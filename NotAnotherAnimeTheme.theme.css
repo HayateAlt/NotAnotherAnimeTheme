@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://i.imgur.com/6CrONSs.jpg);
 
   /*
     Main Theme Color
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://i.imgur.com/ftyffED.jpg);
 
   /*
     Change your friends icon image position
@@ -55,7 +55,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 63px;
 
   /*
     Font Size
@@ -96,14 +96,14 @@
   /*
     Small User Popout
   */
-  --small-user-popout-background-image: var(--theme-background-image);
+  --small-user-popout-background-image: url(https://img3.gelbooru.com//samples/8e/c9/sample_8ec97659b8441a027deceb7732e232d8.jpg);
   --small-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
   --small-user-popout-background-image-position: center;
 
   /*
     Big User Popout
   */
-  --big-user-popout-background-image: var(--theme-background-image);
+  --big-user-popout-background-image: url(https://i.imgur.com/l0PN4qq.jpg);
   --big-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
   --big-user-popout-background-image-position: center;
 
